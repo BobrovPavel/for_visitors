@@ -1,0 +1,6 @@
+allure-pytest==2.8.11
+allure-python-commons==2.8.11
+pytest==5.3.5
+pytest-assume==2.2.0
+selenium==3.141.0
+stripe
